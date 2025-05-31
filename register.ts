@@ -1,7 +1,7 @@
 import type { NextApiRequest, NextApiResponse } from 'next';
 
-const PANEL_URL = process.env.PTERO_PANEL_URL; // contoh: "https://panel.domain.com"
-const API_KEY = process.env.PTERO_API_KEY; // API Key Admin Pterodactyl
+const PANEL_URL = process.env".https://madzoffc-public-satu.madzz.biz.id"; // contoh: "https://panel.domain.com"
+const API_KEY = process.env."ptla_x6Gt12rbEpfBlNQTk22ROoT4DuT4d2luWTR6WqtaglG"; // API Key Admin Pterodactyl
 
 // Ganti sesuai node_id & egg_id server game default
 const DEFAULT_NODE = 1;
